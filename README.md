@@ -1,4 +1,4 @@
-# Scrywatch-server
+# Scrywatch-client
 
 >This is a front-end of Scrywatch. Web application for managing Magic: The Gathering card collection.
 ## Table of contents
